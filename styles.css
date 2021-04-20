@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    background-color:  #f4eee8 !important;
+}
+.nav-brand{
+    color:white !important;
+    position: relative;
+    left: 42rem;
+}
+.main-watch{
+    position: relative;
+    left: 35rem;
+    top: 10rem;
+}
+.watch-timer{
+    font-size:7rem;
+    position: relative;
+    right: 8rem;
+}
+#btn-start{
+    padding: 0 2rem;
+    position: relative;
+    right: 8rem;
+}
+#btn-stop{
+    padding: 0 2rem;
+    position: relative;
+    right: 5rem;
+}
+#btn-reset{
+    padding: 0 2rem;
+    position: relative;
+    right: 2rem;
+}
